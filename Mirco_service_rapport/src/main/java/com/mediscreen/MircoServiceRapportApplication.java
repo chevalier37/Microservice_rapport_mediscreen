@@ -12,6 +12,7 @@ public class MircoServiceRapportApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(MircoServiceRapportApplication.class, args);
+		//
 	}
 
 }
